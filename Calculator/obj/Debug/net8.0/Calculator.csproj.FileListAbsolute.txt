@@ -1,0 +1,28 @@
+C:\Users\Mohammed\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\Mohammed\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\Mohammed\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\Mohammed\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\Mohammed\source\repos\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\Mohammed\source\repos\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+F:\c# projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+F:\c# projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+F:\c# projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+F:\c# projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+F:\c# projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+F:\c# projects\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
